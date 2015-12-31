@@ -1,0 +1,104 @@
+unable to connect to socket at: 21000... trying again...
+unable to connect to socket at: 21000... trying again...
+unable to connect to socket at: 21000... trying again...
+unable to connect to socket at: 21000... trying again...
+ client3 connected to :Socket[addr=/127.0.0.1,port=21000,localport=61812]
+create back received chunk - 0003_FLR.pdf
+create back received chunk - 0008_FLR.pdf
+create back received chunk - 0013_FLR.pdf
+create back received chunk - 0018_FLR.pdf
+create back received chunk - 0023_FLR.pdf
+create back received chunk - 0028_FLR.pdf
+create back received chunk - 0033_FLR.pdf
+create back received chunk - 0038_FLR.pdf
+create back received chunk - 0043_FLR.pdf
+client3 connection closed:Socket[addr=/127.0.0.1,port=21000,localport=61812]
+ client3 connected to :Socket[addr=/127.0.0.1,port=21004,localport=61821]
+edu.uf.cli3.Client_P3Client3-Server socket created, accepting connections...
+client3 totalFilesToRecv:47
+client3 files to download:[1, 2, 4, 5, 6, 7, 9, 10, 11, 12, 14, 15, 16, 17, 19, 20, 21, 22, 24, 25, 26, 27, 29, 30, 31, 32, 34, 35, 36, 37, 39, 40, 41, 42, 44, 45, 46, 47]
+create back received chunk - 0001_FLR.pdf
+create back received chunk - 0006_FLR.pdf
+create back received chunk - 0011_FLR.pdf
+create back received chunk - 0016_FLR.pdf
+create back received chunk - 0021_FLR.pdf
+create back received chunk - 0026_FLR.pdf
+create back received chunk - 0031_FLR.pdf
+create back received chunk - 0036_FLR.pdf
+create back received chunk - 0041_FLR.pdf
+create back received chunk - 0046_FLR.pdf
+new client connection accepted:Socket[addr=/127.0.0.1,port=61822,localport=21003]
+Cannot serve more clients, i am done!
+construct chunk object to send- 0001_FLR.pdf
+construct chunk object to send- 0003_FLR.pdf
+construct chunk object to send- 0006_FLR.pdf
+construct chunk object to send- 0008_FLR.pdf
+construct chunk object to send- 0011_FLR.pdf
+construct chunk object to send- 0013_FLR.pdf
+construct chunk object to send- 0016_FLR.pdf
+construct chunk object to send- 0018_FLR.pdf
+construct chunk object to send- 0021_FLR.pdf
+construct chunk object to send- 0023_FLR.pdf
+construct chunk object to send- 0026_FLR.pdf
+construct chunk object to send- 0028_FLR.pdf
+construct chunk object to send- 0031_FLR.pdf
+construct chunk object to send- 0033_FLR.pdf
+construct chunk object to send- 0036_FLR.pdf
+construct chunk object to send- 0038_FLR.pdf
+construct chunk object to send- 0041_FLR.pdf
+construct chunk object to send- 0043_FLR.pdf
+construct chunk object to send- 0046_FLR.pdf
+client3 files to download:[2, 4, 5, 7, 9, 10, 12, 14, 15, 17, 19, 20, 22, 24, 25, 27, 29, 30, 32, 34, 35, 37, 39, 40, 42, 44, 45, 47]
+client3 files to download:[2, 4, 5, 7, 9, 10, 12, 14, 15, 17, 19, 20, 22, 24, 25, 27, 29, 30, 32, 34, 35, 37, 39, 40, 42, 44, 45, 47]
+client3 files to download:[2, 4, 5, 7, 9, 10, 12, 14, 15, 17, 19, 20, 22, 24, 25, 27, 29, 30, 32, 34, 35, 37, 39, 40, 42, 44, 45, 47]
+create back received chunk - 0002_FLR.pdf
+create back received chunk - 0007_FLR.pdf
+create back received chunk - 0012_FLR.pdf
+create back received chunk - 0017_FLR.pdf
+create back received chunk - 0022_FLR.pdf
+create back received chunk - 0027_FLR.pdf
+create back received chunk - 0032_FLR.pdf
+create back received chunk - 0037_FLR.pdf
+create back received chunk - 0042_FLR.pdf
+create back received chunk - 0047_FLR.pdf
+construct chunk object to send- 0002_FLR.pdf
+construct chunk object to send- 0007_FLR.pdf
+construct chunk object to send- 0012_FLR.pdf
+construct chunk object to send- 0017_FLR.pdf
+construct chunk object to send- 0022_FLR.pdf
+construct chunk object to send- 0027_FLR.pdf
+construct chunk object to send- 0032_FLR.pdf
+construct chunk object to send- 0037_FLR.pdf
+construct chunk object to send- 0042_FLR.pdf
+construct chunk object to send- 0047_FLR.pdf
+client3 files to download:[4, 5, 9, 10, 14, 15, 19, 20, 24, 25, 29, 30, 34, 35, 39, 40, 44, 45]
+create back received chunk - 0004_FLR.pdf
+create back received chunk - 0005_FLR.pdf
+create back received chunk - 0009_FLR.pdf
+create back received chunk - 0010_FLR.pdf
+create back received chunk - 0014_FLR.pdf
+create back received chunk - 0015_FLR.pdf
+create back received chunk - 0019_FLR.pdf
+create back received chunk - 0020_FLR.pdf
+create back received chunk - 0024_FLR.pdf
+create back received chunk - 0025_FLR.pdf
+create back received chunk - 0029_FLR.pdf
+create back received chunk - 0030_FLR.pdf
+create back received chunk - 0034_FLR.pdf
+create back received chunk - 0035_FLR.pdf
+create back received chunk - 0039_FLR.pdf
+create back received chunk - 0040_FLR.pdf
+create back received chunk - 0044_FLR.pdf
+create back received chunk - 0045_FLR.pdf
+construct chunk object to send- 0005_FLR.pdf
+construct chunk object to send- 0010_FLR.pdf
+construct chunk object to send- 0015_FLR.pdf
+construct chunk object to send- 0020_FLR.pdf
+construct chunk object to send- 0025_FLR.pdf
+construct chunk object to send- 0030_FLR.pdf
+construct chunk object to send- 0035_FLR.pdf
+construct chunk object to send- 0040_FLR.pdf
+construct chunk object to send- 0045_FLR.pdf
+client3 files to download:[]
+client3 connection closed:Socket[addr=/127.0.0.1,port=21004,localport=61821]
+Client3- server socket closed :Socket[addr=/127.0.0.1,port=61822,localport=21003]
