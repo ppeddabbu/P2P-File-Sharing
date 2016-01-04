@@ -2,7 +2,8 @@ package edu.p2p.helper;
 
 public class ChunkFileObject implements java.io.Serializable {
 	/*
-	 *  
+	 *This object holds the data related to chuck, such as 
+	 *its name, what its size?, sequence number?
 	*/
 	private static final long serialVersionUID = 1L;
 	private int fileNum;
