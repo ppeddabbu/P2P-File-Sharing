@@ -78,7 +78,7 @@ public class Client_P1 {
 		// invoke client neighbour, try to get the chunks you don't have
 		// 'periodically' that's it
 		// i think you need to send the list of files you have...
-		//one you send all the files in the list to some client exit
+		//once you send all the files in the list to some client exit
 		//c.TCPCliServconnect(21001); // TODO parallel execute
 		
 		Thread thread =new Thread(new Runnable(){
@@ -92,7 +92,7 @@ public class Client_P1 {
 		//is set is not emp
 		//client's job -ping neighbour server client and get the files you need
 		//ping neighbour2
-		c.TCPCliConnect(c.clientNeighborPort); // TODO hard coded as of now, need to get from server
+		c.TCPCliConnect(c.clientNeighborPort); 
 		System.out.println("client1 totalFilesToRecv:"+totalFilesToRecv);
 		
 		while(true)
@@ -330,8 +330,8 @@ class CliServerThread extends Thread {
 			boolean haveFile=false;
 			for(int i=0;i< files.length;i++)
 			{
-				//this guy is the culprit.... u have maintain the have list...or does it contain??
-				// sort the files... in server and send alw
+				//this guy is the culprit.... u have to maintain the have list...or does it contain??
+				// sort the files... in server and send
 				currentFile=files[i];
 				s=files[i].getName().split("_");
 				if(ChunkNum == Integer.parseInt(s[0]))
