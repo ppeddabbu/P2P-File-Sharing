@@ -72,14 +72,9 @@ public class Client_P3 {
 		// Done with the server, who are my clients??
 		String[] tokens = clientConf.split(" ");
 		int port = Integer.parseInt(tokens[1]);
-		//int neighbor1 = Integer.parseInt(tokens[2]);
-		// int neighbor2=Integer.parseInt(tokens[3]);
-		//start my server to serve the files and
 		// invoke client neighbour, try to get the chunks you don't have
 		// 'periodically' that's it
-		// i think you need to send the list of files you have...
-		//one you send all the files in the list to some client exit
-		//c.TCPCliServconnect(21002); // TODO parallel execute
+
 		Thread thread =new Thread(new Runnable(){
 			public void run(){
 				c.TCPCliServconnect(c.clientServport);
