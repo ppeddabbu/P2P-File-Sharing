@@ -21,7 +21,10 @@ import java.util.Scanner;
 import java.util.concurrent.ExecutionException;
 
 import edu.p2p.helper.ChunkFileObject;
-
+/*
+* Main class who breaks the file that needs to be distributed among its client's based on config file
+* Once distribution is done it will exit from p2p network
+*/
 public class Server_P {
 
 	ServerSocket receiveSocket;
@@ -69,7 +72,7 @@ public class Server_P {
 
 			}
 			System.out.println(clientMap);
-// a big TODO send neighbour(s) port
+
 			if (chunkCount > 0) {
 				// wait for the connections to initiate
 				s.TCPServconnect(files);
@@ -126,7 +129,7 @@ public class Server_P {
 	public void divideInputFile() {
 
 		try {
-			//COP5615_12-hh.mp4
+			//xyz.mp4
 			// main file that is to be broken into pieces
 			Scanner sc=new Scanner(System.in);
 			System.out.println("Please place the file in c:p2p folder and Enter the filename:");
