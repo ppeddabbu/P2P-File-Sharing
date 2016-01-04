@@ -5,7 +5,7 @@ file owner.
 
 Steps to execute the project:
 
-First place the 'config' file in this file under folder C:/p2p/ which is available in the current directory
+First place the 'config' file under the folder C:/p2p/ (Since I am using hardcoded location, change this if needed)
 
 Compile steps:
 Go to src directory:
